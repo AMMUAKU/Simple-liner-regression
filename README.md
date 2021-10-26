@@ -1,6 +1,7 @@
 My name is Paduchuri Akanksha
 from Presidency University Bangalore
-and my project is about linear regression analysis
+I am intrested in machine learning
+And my project is about linear regression analysis
 
 
 # Simple-liner-regression
